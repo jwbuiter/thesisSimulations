@@ -1,0 +1,18 @@
+#ignore all kind of files
+*
+!analysis
+!RFEA1
+!RFEA2
+!RFEAepottest
+!RFEAlensingtest
+!RFEAmulti2
+!RFEAsimplified
+!RFEAanimation
+!RFEAfull
+!RFEAmulti
+!RFEAsecelec
+#except php files
+!*.cpp
+!makefile
+!.gitignore
+
